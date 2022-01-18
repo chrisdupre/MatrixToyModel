@@ -1,5 +1,2 @@
-LinearAlgebra
-environment.yml
 julia.ipynb
-python-and-julia.ipynb
-python.ipynb
+LinearAlgebra
